@@ -47,3 +47,6 @@ img {
 .text-center {
   text-align: center;
 }
+.child_service:hover > a{
+    color: red;
+}
