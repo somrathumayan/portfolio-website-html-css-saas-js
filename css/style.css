@@ -1,6 +1,6 @@
 .logo_area > a{
     font-size: 30px;
 }
-.child_service > a{
+.child_service:hover > a{
     color: red;
 }
